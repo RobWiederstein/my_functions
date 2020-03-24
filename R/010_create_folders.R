@@ -10,8 +10,8 @@
 #' create_folders()
 #'
 create_folders <- function(path = getwd()){
-        x <- c("data/tidy",
-               "data/pure",
+        x <- c("data_tidy",
+               "data_pure",
                "R",
                "figs",
                "tbls",

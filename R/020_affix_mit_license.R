@@ -13,6 +13,6 @@
 
 copy_mit_license <- function(license = "mit"){
         from <- "../model_docs/licenses/mit_license.md"
-        to <- "./LICENSE.MD"
+        to <- "./LICENSE.md"
         file.copy(from = from, to = to)
 }
