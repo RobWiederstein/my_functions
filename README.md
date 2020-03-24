@@ -27,7 +27,9 @@ This package contains commonly used functions in my workflow.  The functions all
 ## Downloading
 
 ```
-
+# install.packages("devtools")
+devtools::install_github("RobWiederstein/my_functions")
+https://github.com/RobWiederstein/my_functions.git
 
 ```
 
