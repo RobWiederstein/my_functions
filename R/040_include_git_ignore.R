@@ -11,7 +11,6 @@
 #' 
 #' 
 
-
 copy_git_ignore <- function(){
         from <- "../model_docs/git/.gitignore"
         to <- "./"
