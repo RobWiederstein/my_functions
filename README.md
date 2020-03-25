@@ -12,12 +12,11 @@ This package contains commonly used functions in my workflow.  The functions all
 
 ```
 .
-├── LICENSE.MD
+├── LICENSE.md
 ├── R
 ├── README.md
-├── data
-│   ├── pure
-│   └── tidy
+├── data_pure
+├── data_tidy
 ├── docs
 ├── figs
 └── tbls
