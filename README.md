@@ -12,6 +12,7 @@ This package contains commonly used functions in my workflow.  The functions all
 
 ```
 .
+├── .gitignore
 ├── LICENSE.md
 ├── R
 ├── README.md
@@ -20,6 +21,7 @@ This package contains commonly used functions in my workflow.  The functions all
 ├── docs
 ├── figs
 └── tbls
+
 ```
 
 
