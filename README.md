@@ -43,7 +43,7 @@ The functions copy files from another directory, but could serve as a model for 
 
 ## Acknowledgements
 
-[Hillary Parker](https://hilaryparker.com)(I love cats!)
+[Hilary Parker](https://hilaryparker.com)(I love cats!)
 
 ## License
 
