@@ -35,6 +35,10 @@ devtools::install_github("RobWiederstein/my_functions")
 
 The functions copy files from another directory, but could serve as a model for others to use.
 
+## Acknowledgements
+
+[Hillary Parker](https://hilaryparker.com)(I love cats!)
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
