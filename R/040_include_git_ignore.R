@@ -12,7 +12,8 @@
 #' 
 
 copy_git_ignore <- function(){
-        from <- "../model_docs/git/.gitignore"
-        to <- "./"
-        file.copy(from = from, to = to)
+      con = c("https://gist.githubusercontent.com/RobWiederstein/7f1f4778a838944b0498a493e2ea6743/raw/3187ebdf984707a10bac1a8d49edc4e04538ec23/myR.gitignore")
+      x <- readLines(con = con)
+      file <- ".gitignore"
+      write(x, file = file)
 }
